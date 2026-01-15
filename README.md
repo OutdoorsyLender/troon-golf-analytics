@@ -1,4 +1,15 @@
 # troon-golf-analytics
+## Power BI Dashboard
+
+### Overview – Revenue & Utilization
+![Overview](screenshots/image_1.jpg)
+
+### Course & Season Drilldown
+![Drilldown](screenshots/image_2.jpg)
+
+### Cancellations & Lost Revenue
+![Cancellations](screenshots/image_3.jpg)
+
 Power BI project modeling Troon North golf course operations with simulated data, including tee times, revenue, utilization, customer types, and cancellation analysis.
 # Troon Golf Analytics
 
@@ -57,6 +68,8 @@ You can view the interactive Power BI dashboard here:
 https://app.powerbi.com/view?r=eyJrIjoiMTk5OTIyMDItNGMwMC00MjMzLThhMWMtZjY5MDZlODJiYjJkIiwidCI6IjQ3NDYzYWQ4LTkwODktNGIzNC04NjM4LTg2ZWY4NGVhZGZlYiIsImMiOjZ9
 
 ---
+
+
 
 ## How to regenerate the data
 
