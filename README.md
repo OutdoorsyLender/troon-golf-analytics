@@ -65,7 +65,7 @@ The data includes realistic seasonality, pricing differences, and cancellation b
 You can view the interactive Power BI dashboard here:
 
 **Troon North – Golf Operations Power BI Dashboard**  
-https://app.powerbi.com/view?r=eyJrIjoiMTk5OTIyMDItNGMwMC00MjMzLThhMWMtZjY5MDZlODJiYjJkIiwidCI6IjQ3NDYzYWQ4LTkwODktNGIzNC04NjM4LTg2ZWY4NGVhZGZlYiIsImMiOjZ9
+https://app.powerbi.com/view?r=eyJrIjoiMTk5OTIyMDItNGMwMC00MjMzLThhMWMtZjY5MDZlODJiYjJkIiwidCI6IjQ3NDYzYWQ4LTkwODktNGIzNC04NjM4LTg2ZWY4NGVhZGZlYiIsImMiOjZ9&pageName=17e2498337ea75c738e5
 
 ---
 
